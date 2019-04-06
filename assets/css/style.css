@@ -1,0 +1,59 @@
+body {
+    background-image: url("../images/basketball.jpg");
+    background-repeat: repeat;
+    background-size: 200px 200px;
+}
+
+header {
+    font-family: 'Baloo Chettan', cursive;
+    text-align: center;
+    padding: 20px;
+}
+hr {
+    border-bottom: 3px solid black;
+}
+
+.container {
+    background-color: #E47041;
+    border: 5px black solid;
+    text-align: center;
+    height: 50%;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.answerchoice {
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    color: black;
+    padding: 5px 10px;
+}
+.answerchoice:hover {
+	border: 1px solid black;
+  border-radius: 5%;
+	width: 40%;
+  background-color: orangered;
+
+}
+
+.start {
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    color: black;
+    padding: 5px 10px;
+}
+
+.start:hover {
+    border: 1px solid black;
+    border-radius: 5%;
+      width: 40%;
+    background-color: orangered;
+}
+
+.size {
+    height: 300;
+    width: 400;
+}
+
